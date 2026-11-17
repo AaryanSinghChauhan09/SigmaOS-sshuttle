@@ -3,7 +3,7 @@ name = "SigmaOS-sshuttle"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "sshuttle component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
